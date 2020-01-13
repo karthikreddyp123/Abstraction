@@ -1,5 +1,3 @@
-# DotNET_Tasks
-EPAM DOTNET training tasks
 This task demonstrates a simple example of Abstraction.
 CarDetails.java has private data which has getter and setter methods to set and retrieve data.
 Person.java has abstract method through which we will achieve abstraction.
